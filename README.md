@@ -1,5 +1,5 @@
 ### SEJA BEM-VINDO AO MEU GITHUB!! 👋## Prazer! 👋 Me chamo Mateus Alves Conceição, tenho 19 anos de idade e moro em São Paulo. ° 💻 Estudante de Tecnologia, <strong>aluno do Instituto PROA.</strong>
-° 💻 Gosto muito de <strong>tecnologia</strong>, com foco em <strong>.programação</strong> ° 💼 Aluno no Senac Lapa Tito, em São Paulo-SP, realizando o curso de Programador Web Java... ° 🚀 Estudando sobre <strong>Figma, HTML5, CSS3, Lógica de Programação com JavaScript e ReactJS.</strong> ° 🎓 Ensino Médio Completo.
+° 💻 Gosto muito de <strong>tecnologia</strong>, com foco em <strong>.programação</strong> ° 💼 Aluno no Senac Lapa Tito, em São Paulo-SP, realizando o curso de Programador Web Java... ° 🚀 Estudando sobre <strong>Figma, HTML5, CSS3, Lógica de Programação com JavaScript, ReactJS e Banco de Dados com MySQL..</strong> ° 🎓 Ensino Médio Completo.
 <div>
 <hr>
 <a href="https://github.com/mateusalvesc">
