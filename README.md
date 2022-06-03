@@ -23,5 +23,5 @@
 <!--<img height="35em" src=""/>
 <img height="35em" src=""/> --></p><div align="center">
 <h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
-<a href="https://www.linkedin.com/in/mateus-alves-concei%C3%A7%C3%A3o-a9804b213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mateus-alvesc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
