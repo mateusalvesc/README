@@ -15,8 +15,8 @@
 <br>
 <div align="center">
 <a href="https://github.com/mateusalvesc">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mateusalvesc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvesc&layout=compact&langs_count=7&theme=gotham"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mateusalvesc&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvesc&layout=compact&langs_count=7&theme=yeblu"/>
 </div>
 <br>
  <h2 align="center">Some Technologies, Languages, Frameworks and others<h2/>
@@ -28,7 +28,11 @@
       <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
       <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
       <img src="https://img.icons8.com/color/48/000000/git.png"/>
+      <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
       <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+      <img src="https://img.icons8.com/color/48/000000/java.png"/>
+      <img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
   </div>
   
   
