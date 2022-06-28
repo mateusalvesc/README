@@ -32,6 +32,6 @@
   </div>
   
   
-  <!--[Snake animation]--><img height="145" src="https://github.com/mateuslavesc/mateusalvesc/blob/output/github-contribution-grid-snake.svg"/>
+  <!--[Snake animation]--><img height="145" src="https://github.com/mateusalvesc/mateusalvesc/blob/output/github-contribution-grid-snake.svg"/>
 
-  ![mateusalvesc](https://komarev.com/ghpvc/?username=mateusalvec)
+  ![mateusalvesc](https://komarev.com/ghpvc/?username=mateusalvesc)
