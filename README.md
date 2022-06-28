@@ -1,27 +1,37 @@
-### SEJA BEM-VINDO AO MEU GITHUB!! 👋## Prazer! 👋 Me chamo Mateus Alves Conceição, tenho 19 anos de idade e moro em São Paulo. ° 💻 Estudante de Tecnologia, <strong>aluno do Instituto PROA.</strong>
-° 💻 Gosto muito de <strong>tecnologia</strong>, com foco em <strong>.programação</strong> ° 💼 Aluno no Senac Lapa Tito, em São Paulo-SP, realizando o curso de Programador Web Java... ° 🚀 Estudando sobre <strong>Figma, HTML5, CSS3, Lógica de Programação com JavaScript, ReactJS, Banco de Dados com MySQL e Java..</strong> ° 🎓 Ensino Médio Completo.
-<div>
-<hr>
+<h1 align="center">Hi , I'm Mateus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<div align="center">
+</div>
+
+<div align="center">
+<a><img width="350" src=/assets/donkey_kong.gif></a>
+ <div/>
+
+ <div align="center">
+<a href="https://www.linkedin.com/in/mateus-alvesc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+ <a href = "mailto:mateus.alvesc02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <div/>
+<br>
+<br>
+<div align="center">
 <a href="https://github.com/mateusalvesc">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mateusalvesc&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvesc&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-<img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=mateusalvesc&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
-<hr>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mateusalvesc&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusalvesc&layout=compact&langs_count=7&theme=gotham"/>
 </div>
-<h2 align="center">Linguagens e ferramentas</h2><p align="center">
-<img height="36em" src="https://github.com/CR10L02k/imagens/blob/main/icons/java/java-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/html5/html5-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/css3/css3-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/mysql/mysql-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/eclipse/eclipse.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/intellij/intellij-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/spring/spring-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/git/git-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/github/github-original.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/trello/trello-plain.svg"/>
-<img height="35em" src="https://github.com/CR10L02k/imagens/blob/main/icons/windows8/windows8-original.svg"/>
-<!--<img height="35em" src=""/>
-<img height="35em" src=""/> --></p><div align="center">
-<h2 align="center">Conecte-me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="20"></h2>
-<a href="https://www.linkedin.com/in/mateus-alvesc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<br>
+ <h2 align="center">Some Technologies, Languages, Frameworks and others<h2/>
+  
+  <div align="center" >
+      <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+      <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+      <img src="https://img.icons8.com/color/48/000000/git.png"/>
+      <img src="https://img.icons8.com/ultraviolet/45/000000/react--v1.png"/>
+  </div>
+  
+  
+  <!--[Snake animation]--><img height="145" src="https://github.com/mateuslavesc/mateusalvesc/blob/output/github-contribution-grid-snake.svg"/>
+
+  ![mateusalvesc](https://komarev.com/ghpvc/?username=mateusalvec)
