@@ -4,7 +4,6 @@
 </div>
 
 <div align="center">
-<a><img width="350" src=/assets/donkey_kong.gif></a>
  <div/>
 
  <div align="center">
